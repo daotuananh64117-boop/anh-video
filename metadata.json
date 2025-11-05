@@ -1,0 +1,5 @@
+{
+  "name": "Trình tạo Video từ Ảnh",
+  "description": "Một ứng dụng web để tạo video trình chiếu từ các hình ảnh của bạn, với các hiệu ứng chuyển cảnh và thời lượng tùy chỉnh. Tất cả quá trình xử lý diễn ra trên trình duyệt của bạn, không cần API hay token.",
+  "requestFramePermissions": []
+}
